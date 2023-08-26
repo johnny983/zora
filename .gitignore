@@ -2,4 +2,8 @@
 
 .DS_Store
 
+wallets.txt
+
+proxies.txt
+
 /__pycache__
